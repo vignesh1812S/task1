@@ -137,12 +137,15 @@ To prevent abuse, only safe commands are allowed. The app blocks potentially har
 
 ## 📸 Screenshots
 
-| Create Task | Execute Task | Get Tasks |
-|-------------|--------------|-----------|
-| ![Capture](https://github.com/user-attachments/assets/8831d259-eb96-4b62-9a19-73ec6ea98eaf)
- |![3](https://github.com/user-attachments/assets/cb8b485f-b931-426f-8e19-e4cc2c7de97a)
-  | ![Capture](https://github.com/user-attachments/assets/2c7d819f-039a-4631-9949-246ff2bbe416)
- |
+Create Task
+
+ ![Capture](https://github.com/user-attachments/assets/8831d259-eb96-4b62-9a19-73ec6ea98eaf)
+Execute Task 
+ ![3](https://github.com/user-attachments/assets/cb8b485f-b931-426f-8e19-e4cc2c7de97a)
+
+ Get Tasks
+   ![Capture](https://github.com/user-attachments/assets/2c7d819f-039a-4631-9949-246ff2bbe416)
+ 
 
 ---
 
