@@ -139,7 +139,10 @@ To prevent abuse, only safe commands are allowed. The app blocks potentially har
 
 | Create Task | Execute Task | Get Tasks |
 |-------------|--------------|-----------|
-| ![Task Post](2.JPG) | ![Task Execution](3.JPG) | ![All Tasks](Capture.JPG) |
+| ![Capture](https://github.com/user-attachments/assets/8831d259-eb96-4b62-9a19-73ec6ea98eaf)
+ |![3](https://github.com/user-attachments/assets/cb8b485f-b931-426f-8e19-e4cc2c7de97a)
+  | ![Capture](https://github.com/user-attachments/assets/2c7d819f-039a-4631-9949-246ff2bbe416)
+ |
 
 ---
 
